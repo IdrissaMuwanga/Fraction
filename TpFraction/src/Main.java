@@ -2,9 +2,8 @@ import java.util.Scanner;
 
 public class Main {
 	public static void main(String[] args) {
-		int a;
-		int b;
-		Scanner scan = new Scanner(System.in); // on demande a l'utilisateur de rentrer les valeurs des différents numerateurs et denominateurs
+		int a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p;
+		Scanner scan = new Scanner(System.in); // on demande a l'utilisateur de rentrer les valeurs des diffÃ©rents numerateurs et denominateurs
 		a=scan.nextInt();
 		b=scan.nextInt();
 		c=scan.nextInt();
